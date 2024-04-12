@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jul 2021]
-################################################################################ 
 """ Functionality for window user interface to set user name and 
 path for playblast.
 

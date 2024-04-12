@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Aug 2021]
-################################################################################ 
 """ User interface to select materials and assign to geometries.
 
 @author Esteban Ortega <brutools@gmail.com>

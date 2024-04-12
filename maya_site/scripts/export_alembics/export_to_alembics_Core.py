@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jul 2021]
-################################################################################ 
 """ Functionality for window user interface to export selected objs to alembics.
 
 @author Esteban Ortega <brutools@gmail.com>

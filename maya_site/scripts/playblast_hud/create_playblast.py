@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jul 2021]
-################################################################################ 
 """ Defines funcitons to create a playblast with custom Hud.
 
 @author Esteban Ortega <brutools@gmail.com>

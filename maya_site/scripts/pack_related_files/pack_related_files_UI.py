@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jul 2021]
-################################################################################ 
 """ Window user interface for packing file with referenced files.
 
 @author Esteban Ortega <brutools@gmail.com>

@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Aug 2021]
-################################################################################ 
 """ User interface to automatically assign materials to meshes in current file.
 
 @author Esteban Ortega <brutools@gmail.com>

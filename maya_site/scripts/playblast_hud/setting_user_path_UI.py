@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jul 2021]
-################################################################################ 
 """ Window user interface to set user name and path for playblast.
 
 @author Esteban Ortega <brutools@gmail.com>

@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jun 2021]
-################################################################################ 
 """ Window user interface to set jobIn information in Maya.
 
 @author Esteban Ortega <brutools@gmail.com>

@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jul 2021]
-################################################################################ 
 """ Defines the names of the huds for playblast.
 
 @author Esteban Ortega <brutools@gmail.com>

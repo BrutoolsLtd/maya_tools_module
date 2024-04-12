@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jul 2021]
-################################################################################ 
 """ Functionality window to import alembics.
 
 @author Esteban Ortega <brutools@gmail.com>

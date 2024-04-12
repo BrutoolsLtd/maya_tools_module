@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Jul 2021]
-################################################################################ 
 """ Toggle on or off the custom huds.
 
 @author Esteban Ortega <brutools@gmail.com>

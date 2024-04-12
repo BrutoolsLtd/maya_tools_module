@@ -1,6 +1,3 @@
-################################################################################
-# TME FX Trishul Media Entertainment [Aug 2021]
-################################################################################ 
 """ Add funcitonality to user interface to automatically assign materials 
 to meshes in current file.
 
